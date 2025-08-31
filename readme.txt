@@ -1,3 +1,2 @@
-Hello world!
-Saya belajar GIT
-GIT Sangat menyenangkan, bikin pusing, seru.
+Hallo my name is Delvin Laurens
+im learning to be a developer
